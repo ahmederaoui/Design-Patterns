@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7c52cfc-4b69-49e2-8a44-53dada111055" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/decoratorPattern/Composant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/decoratorPattern/ComposantImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/decoratorPattern/Decorateur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/decoratorPattern/Decorateur1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/decoratorPattern/Decorateur2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/decoratorPattern/DecorateurTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/observerPattern/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/observerPattern/Couloire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/observerPattern/GameObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/observerPattern/Gardien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/observerPattern/Joueur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/observerPattern/JoueurImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/observerPattern/ObserverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/strategyTemplatePattern/client/StrategyTemplateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/strategyTemplatePattern/pattern/FilterStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/strategyTemplatePattern/pattern/FilterStrategy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/strategyTemplatePattern/pattern/FilterStrategy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/strategyTemplatePattern/pattern/ImageCompress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/strategyTemplatePattern/pattern/ImageProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/templatePattern/client/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/templatePattern/template/Template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/templatePattern/template/TemplateImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enset/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enset/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enset/compositePattern/Cercle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enset/compositePattern/Cercle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enset/compositePattern/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enset/compositePattern/Figure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enset/compositePattern/Groupe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enset/compositePattern/Groupe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enset/compositePattern/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enset/compositePattern/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enset/compositePattern/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enset/compositePattern/Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2XOWJ1fHPgh1VxgOLBLGdmbXgJx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.enset.strategyTemplatePattern" />
+      <recent name="com.enset.observerPattern" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StrategyTemplateTest">
+    <configuration name="ClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.enset.templatePattern.client.ClientTest" />
+      <module name="TP_DP1_EX1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enset.templatePattern.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecorateurTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.enset.decoratorPattern.DecorateurTest" />
+      <module name="TP_DP1_EX1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enset.decoratorPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.enset.observerPattern.ObserverTest" />
+      <module name="TP_DP1_EX1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enset.observerPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyTemplateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.enset.strategyTemplatePattern.client.StrategyTemplateTest" />
+      <module name="TP_DP1_EX1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enset.strategyTemplatePattern.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.enset.compositePattern.Test" />
+      <module name="TP_DP1_EX1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enset.compositePattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StrategyTemplateTest" />
+        <item itemvalue="Application.ObserverTest" />
+        <item itemvalue="Application.DecorateurTest" />
+        <item itemvalue="Application.ClientTest" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7c52cfc-4b69-49e2-8a44-53dada111055" name="Changes" comment="" />
+      <created>1698500532751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698500532751</updated>
+      <workItem from="1698500535640" duration="11394000" />
+      <workItem from="1698605547181" duration="49000" />
+      <workItem from="1699570827881" duration="7000" />
+      <workItem from="1699570961003" duration="2191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
