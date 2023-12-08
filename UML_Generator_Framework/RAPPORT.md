@@ -65,15 +65,33 @@ JavaCodeGenerationStrategy implémente CodeGenerationStrategy pour générer le 
 DiagramExporterStrategy est une interface qui définit la méthode d'exportation du diagramme.
 BinaryExporter, XMLExporter, JSONExporter sont des classes concrètes qui implémente DiagramExporterStrategy pour exporter le diagramme.
 
-Observer Pattern (Notification des changements d'attributs) :
+- Observer Pattern (Notification des changements d'attributs) :
 
 AttributeObserver est une interface que les observateurs doivent implémenter pour être notifiés des changements d'attributs.
 Attributelogger est la classe sujet qui loger les changement.
 
-Composite Pattern (Groupes de Classes) :
+- Composite Pattern (Groupes de Classes) :
 
 ClassGroup est une classe composite qui peut contenir des classes ou d'autres groupes de classes.
 
-Adapter Pattern (Ancienne Implémentation) :
+- Adapter Pattern (Ancienne Implémentation) :
 
 OldCodeGeneratorAdapter adapte l'ancienne implémentation pour l'intégrer comme une stratégie de génération de code.
+## la conception de la solution
+![image](https://github.com/ahmederaoui/Design-Patterns/assets/96418903/26efc6dd-dfe6-4ddd-8677-bc670234c63e)
+- Strategy Pattern (Génération de Code) :
+  ![image](https://github.com/ahmederaoui/Design-Patterns/assets/96418903/6492e7ab-791e-444b-9d98-e641f1e394f5)
+
+- Strategy Pattern (Export de Diagramme) :
+  ![image](https://github.com/ahmederaoui/Design-Patterns/assets/96418903/987c4a00-9c71-4e59-a851-1a9737978771)
+
+- Observer Pattern (Notification des changements d'attributs) :
+  ![image](https://github.com/ahmederaoui/Design-Patterns/assets/96418903/226cad59-1930-495d-aa72-edca5486736c)
+
+- Composite Pattern (Groupes de Classes) :
+  ![image](https://github.com/ahmederaoui/Design-Patterns/assets/96418903/1eef9f4d-736f-4d89-a621-8839641f9863)
+
+- Adapter Pattern (Ancienne Implémentation) :
+  ![image](https://github.com/ahmederaoui/Design-Patterns/assets/96418903/0cc4834a-bd47-4106-8b2f-86eb36b3e511)
+## Implimentation Et Test
+Vous trouverez ces parties dans le code 
